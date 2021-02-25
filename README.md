@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Estrada Meza Rene Alejandro
+### Instituto Tecnologico de Tijuana
+**Estudiante en ingenieria en sistemas computacionales**
 <!--
 **EstradaMezaReneAlejandro/EstradaMezaReneAlejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
